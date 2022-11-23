@@ -1,0 +1,15 @@
+C:\Users\frank\source\repos\truequeApp\truequeApp\bin\Debug\net6.0\truequeApp.exe
+C:\Users\frank\source\repos\truequeApp\truequeApp\bin\Debug\net6.0\truequeApp.deps.json
+C:\Users\frank\source\repos\truequeApp\truequeApp\bin\Debug\net6.0\truequeApp.runtimeconfig.json
+C:\Users\frank\source\repos\truequeApp\truequeApp\bin\Debug\net6.0\truequeApp.dll
+C:\Users\frank\source\repos\truequeApp\truequeApp\bin\Debug\net6.0\ref\truequeApp.dll
+C:\Users\frank\source\repos\truequeApp\truequeApp\bin\Debug\net6.0\truequeApp.pdb
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.AssemblyInfoInputs.cache
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.AssemblyInfo.cs
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.dll
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\ref\truequeApp.dll
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.pdb
+C:\Users\frank\source\repos\truequeApp\truequeApp\obj\Debug\net6.0\truequeApp.genruntimeconfig.cache
